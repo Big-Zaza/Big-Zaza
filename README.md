@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Big-Zaza
-- 👀 I’m interested in Software development< Cloud and Devops.
-- 🌱 I’m currently learning the basics of web development and Python. 
+- 👋 Hi, I’m Ntui Etta Junior
+- 👀 I’m interested in Devops methodology and cloud.
+- 🌱 I’m currently a Devops/cloud engineer with over 4years of experience. 
 - 💞️ I’m looking to collaborate and work with others on many intresting projects.
 - 📫 How to reach me: ntuijunior1@gmail.com 
 
